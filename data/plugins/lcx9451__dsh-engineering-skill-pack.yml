@@ -1,6 +1,7 @@
 url: https://github.com/lcx9451/dsh-engineering-skill-pack
 name: lcx9451/dsh-engineering-skill-pack
 category: skill
+tarball: https://github.com/lcx9451/dsh-engineering-skill-pack/releases/download/v0.1.0/dsh-engineering-skill-pack-0.1.0.tgz
 description:
   en: "Installs a 28-skill pack for engineering, design and writing workflows — the skills ship inside the package and are registered through the harness skill source, with each third-party skill's origin and license documented."
   zh: "把 28 个工程、界面设计与写作技能打包为可安装的技能包：技能随包携带并注册为技能源，第三方技能的来源与许可逐条记录。"
